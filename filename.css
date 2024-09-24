@@ -1,0 +1,30 @@
+.societal-section { background-color: #FFDDC1; }
+    .economic-section { background-color: #C1E1FF; }
+    .ethical-section { background-color: #D2F4D2; }
+    .security-section { background-color: #FFD9D9; }
+    .existential-section { background-color: #E0E0E0; }
+.characteristics-table {
+  background-color: mediumaquamarine;
+  box-shadow: 2px 2px;
+    max-height: 300px;
+    overflow-y: auto;
+}
+    /* Additional styling for better readability */
+    body { font-family: 'Arial', sans-serif; margin: 20px; }
+    div { padding: 20px; margin-bottom: 20px; border-radius: 8px; }
+.blockquote {
+  background-color: darkturquoise;
+  box-shadow: 2px 4px;
+  opacity: 0.9;
+}
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
